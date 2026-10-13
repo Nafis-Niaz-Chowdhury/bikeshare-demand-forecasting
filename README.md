@@ -45,7 +45,7 @@ Main findings:
 
 ```bash
 # 1. Clone this repository
-git clone https://github.com/<your-username>/bikeshare-demand-forecasting.git
+git clone https://github.com/<Nafis-Niaz-Chowdhury>/bikeshare-demand-forecasting.git
 cd bikeshare-demand-forecasting
 
 # 2. (Optional) create a virtual environment
